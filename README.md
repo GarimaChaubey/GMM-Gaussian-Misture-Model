@@ -183,7 +183,7 @@ $$
 
 # 🧾 GMM Pseudocode
 
-```text
+``'text
 Initialize μk, Σk, πk
 
 repeat:
@@ -198,3 +198,15 @@ repeat:
     compute log-likelihood
 
 until convergence
+
+# 📚 References
+
+1. Bishop, Christopher M. *Pattern Recognition and Machine Learning*. Springer, 2006.  
+2. Murphy, Kevin P. *Machine Learning: A Probabilistic Perspective*. MIT Press, 2012.  
+3. Hastie, Tibshirani, Friedman. *The Elements of Statistical Learning*. Springer, 2009.  
+4. Dempster, Laird, Rubin. “Maximum Likelihood from Incomplete Data via the EM Algorithm.” JRSS, 1977.  
+5. Redner, Walker. “Mixture Densities, Maximum Likelihood and the EM Algorithm.” SIAM Review, 1984.  
+6. scikit-learn documentation: GaussianMixture — https://scikit-learn.org/stable/modules/mixture.html  
+7. Stanford CS229 Notes — Mixture Models & EM  
+
+
