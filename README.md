@@ -197,8 +197,9 @@ repeat:
 
     compute log-likelihood
 
-until convergence
+    until convergence
 
+---
 # 📚 References
 
 1. Bishop, Christopher M. *Pattern Recognition and Machine Learning*. Springer, 2006.  
