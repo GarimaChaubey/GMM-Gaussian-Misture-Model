@@ -183,10 +183,10 @@ $$
 
 # 🧾 GMM Pseudocode
 
-``'text
-Initialize μk, Σk, πk
 
-repeat:
+    Initialize μk, Σk, πk
+
+    repeat:
     # E-step
     compute responsibilities γik
 
