@@ -5,24 +5,6 @@ Perfect for students, beginners in Machine Learning, and anyone trying to unders
 
 ---
 
-# 📘 Table of Contents
-
-1. [Introduction](#introduction)  
-2. [Why GMM?](#why-gmm)  
-3. [Understanding a Single Gaussian](#understanding-a-single-gaussian)  
-4. [Gaussian Mixture Model](#gaussian-mixture-model)  
-5. [Latent Variables & Generative View](#latent-variables--generative-view)  
-6. [EM Algorithm — Complete Explanation](#em-algorithm--complete-explanation)  
-7. [GMM Pseudocode](#gmm-pseudocode)  
-8. [GMM vs K-Means](#gmm-vs-k-means)  
-9. [Python Code for GMM](#python-code-for-gmm)  
-10. [Python Code for K-Means Comparison](#python-code-for-k-means-comparison)  
-11. [When Should You Use GMM?](#when-should-you-use-gmm)  
-12. [Project Structure](#project-structure)  
-13. [References](#references)
-
----
-
 # 🧠 Introduction
 
 A **Gaussian Mixture Model (GMM)** is a **probabilistic clustering model** that assumes data is generated from a mixture of multiple Gaussian distributions.
