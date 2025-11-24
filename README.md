@@ -32,9 +32,9 @@ Unlike K-Means, GMM provides:
 - **Soft clustering** (probabilistic cluster membership)  
 - **Elliptical cluster shapes** (via covariance)  
 - **Full density estimation**:  
-  $$
+  $
   p(x) = \sum_{k=1}^{K} \pi_k \, \mathcal{N}(x | \mu_k, \Sigma_k)
-  $$
+  $
 
 GMM is trained using the **Expectation–Maximization (EM)** algorithm.
 
